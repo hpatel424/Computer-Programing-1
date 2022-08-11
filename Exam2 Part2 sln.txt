@@ -1,0 +1,36 @@
+1.
+stressed
+warts
+revile
+
+
+2. 
+5
+20
+30
+
+
+3.
+int difference(int a[], const int size){
+
+   return a[0] - a[size-1];
+}
+
+
+
+4.
+a.
+Line myLine = {5,-1};
+myLine.displayLine();
+
+b.
+double x;
+cout << "input x-value: ";
+cin >> x;
+cout<< "y=" << myLine.evaluateLine(x) << endl;
+
+
+5. 
+0 1 4 5 8
+9 12 12 16 17
+20 21 24 25 28
